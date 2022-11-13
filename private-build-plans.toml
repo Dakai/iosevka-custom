@@ -7,13 +7,13 @@ inherits = "ss04"
 
 [buildPlans.custom.variants.design]
 g = 'earless-corner'
-k = 'curly'
+k = 'curly-serifless'
 v = 'curly'
 w = 'curly'
 capital-q = 'crossing'
 capital-r = 'curly'
 capital-v = 'curly'
-asterisk = 'low'
+asterisk = 'penta-low'
 caret = 'low'
 
 [buildPlans.custom.ligations]
